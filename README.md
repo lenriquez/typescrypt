@@ -1,0 +1,2 @@
+# typescrypt
+Learning TypeScript
